@@ -1,0 +1,38 @@
+[
+  
+    {
+      "title"    : "Information",
+      "tags"     : "",
+      "url"      : "/Information/",
+      "date"     : "2020-09-23 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Little Green Bastard Truck",
+      "tags"     : "",
+      "url"      : "/LGBT/",
+      "date"     : "2020-07-11 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Cubanamella",
+      "tags"     : "",
+      "url"      : "/cubanamella/",
+      "date"     : "2020-05-30 00:00:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Colophon",
+      "tags"     : "",
+      "url"      : "/about/",
+      "date"     : "2020-02-25 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Text Formatting Examples",
+      "tags"     : "",
+      "url"      : "/text-formatting-examples/",
+      "date"     : "2017-01-01 00:00:00 -0500"
+    } 
+  
+]

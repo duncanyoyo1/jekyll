@@ -1,0 +1,15 @@
+title: 'Lesshead.works'
+tagline: 'Extensability is only as good as your ability'
+
+author:
+  name: 'Duncanyoyo1'
+
+google-ID: ''
+
+menu:
+# Uncomment to activate the menu looping function in the header.html file under _includes
+#- {name: 'Index', url: 'page-index.html'}
+
+social:
+# Uncomment to activate the social media icon looping function in the footer.html file under _includes
+#- {icon: 'github', link: 'https://www.github.com/duncanyoyo1'}
