@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author: 
   name: Duncanyoyo1 # author name
   bio: >- # tell to the world
-    More coming soon <a href="https://github.com/duncanyoyo1/" target="_blank" rel="noopener">@github</a>.
+    More coming soon <a href="https://github.com/duncanyoyo1/" target="_blank" rel="noopener">@github <a href="https://twitch.tv/duncanyoyo1" target="_blank" rel="noopener">@twitch</a>.
   username: duncanyoyo1 # general username
   github: duncanyoyo1 # github username
   twitter: duncanyoyo1 # twitter username
