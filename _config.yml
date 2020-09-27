@@ -82,6 +82,7 @@ exclude:
   - lighthouse.png
   - klise-*.gem
   - klise.gemspec
+  - workspace.code-workspace
 
 # Plugins
 plugins:
