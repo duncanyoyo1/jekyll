@@ -20,7 +20,7 @@ Flavor total: 8.5%
 
 Remember to rate it at [e-liquid-recipes.com!](https://e-liquid-recipes.com/recipe/3567509/Cubanamella)
 
-![Cubanamella](/assets/img/cubanamella.jpg)
+![Cubanamella](/assets/img/cubanamella.webp)
 
 This is my twist on [Cubanamel by TheFogVLOG](https://alltheflavors.com/recipes/126323#cubanamel_by_thefogvlog).
 
