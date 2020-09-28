@@ -38,3 +38,5 @@ The original has 0.15% Cap SS, I normally use 0.5% FW Sweetener myself in MTL mi
 [Cubanamel by TheFogVLOG](https://alltheflavors.com/recipes/126323#cubanamel_by_thefogvlog)
 
 Tested out of a Kayfun Lite 2019, 26g SS316L 3mm ID 8 wraps, TC at 215°C 18.5w
+
+[DIY_eJuice Discord]({{ site.author.discordinv }})
