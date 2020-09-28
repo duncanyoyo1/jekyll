@@ -2,8 +2,8 @@
   "version": 2,
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/.*", "status": 404, "dest": "404.html" }
-    { "src": "/.*", "status": 403, "dest": "403.html" }
+    { "src": "/.*", "status": 404, "dest": "404.html" },
+    { "src": "/.*", "status": 403, "dest": "403.html" },
     { "src": "/.*", "status": 401, "dest": "401.html" }
   ]
 }
