@@ -1,5 +1,6 @@
 ---
 title: Information
+permalink: /information/
 layout: page
 excerpt: More content soon
 comments: false
