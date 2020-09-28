@@ -12,4 +12,3 @@ Please be patient
 - twitch.com/{{ site.author.twitch }}
 - discord@{{ site.author.discord }}
 - [{{ site.author.discordinv }}]({{ site.author.discordinv }})
-- {{ site.github.url }}/assets/css/style.css
