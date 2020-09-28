@@ -11,4 +11,4 @@ Please be patient
 - github.com/{{ site.author.github }}
 - twitch.com/{{ site.author.twitch }}
 - discord@{{ site.author.discord }}
-- {{ site.author.discordinv }}
+- DIY_eJuice Discord [{{ site.author.discordinv }}]({{ site.author.discordinv }})
