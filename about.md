@@ -10,3 +10,4 @@ Please be patient
 
 - github.com/{{ site.author.github }}
 - twitch.com/{{ site.author.twitch }}
+- discord@{{ site.author.discord }}
