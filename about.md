@@ -8,6 +8,5 @@ comments: false
 
 Please be patient
 
-- {{ site.author.email }}
 - github.com/{{ site.author.github }}
 - twitch.com/{{ site.author.twitch }}
