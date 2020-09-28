@@ -1,10 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://lesshead.works/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lesshead.works/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2020-09-26T00:53:55-04:00</updated><id>https://lesshead.works/feed.xml</id><title type="html">Lesshead.works</title><subtitle>Doing code stuff &lt;a href=&quot;https://github.com/duncanyoyo1&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@github&lt;/a&gt;.</subtitle><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><entry><title type="html">Information</title><link href="https://lesshead.works/Information/" rel="alternate" type="text/html" title="Information" /><published>2020-09-23T00:00:00-04:00</published><updated>2020-09-23T00:00:00-04:00</updated><id>https://lesshead.works/Information</id><content type="html" xml:base="https://lesshead.works/Information/">&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://lesshead.works/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lesshead.works/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2020-09-27T22:19:36-04:00</updated><id>https://lesshead.works/feed.xml</id><title type="html">Lesshead.works</title><subtitle>Doing code stuff &lt;a href=&quot;https://github.com/duncanyoyo1&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@github&lt;/a&gt;.</subtitle><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><entry><title type="html">Ambition Mods Easy Side DNA60 Swap</title><link href="https://lesshead.works/DNA60swap/" rel="alternate" type="text/html" title="Ambition Mods Easy Side DNA60 Swap" /><published>2020-09-27T00:00:00-04:00</published><updated>2020-09-27T00:00:00-04:00</updated><id>https://lesshead.works/DNA60-Swap</id><content type="html" xml:base="https://lesshead.works/DNA60swap/">&lt;h1 id=&quot;the-mod&quot;&gt;The mod&lt;/h1&gt;
 
-&lt;p&gt;Please bear with us as we implement more of the site.&lt;/p&gt;
+&lt;p&gt;Here are a few images of the mod.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Orphic, Ent.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><summary type="html">More content soon</summary></entry><entry><title type="html">Little Green Bastard Truck</title><link href="https://lesshead.works/LGBT/" rel="alternate" type="text/html" title="Little Green Bastard Truck" /><published>2020-07-11T00:00:00-04:00</published><updated>2020-07-11T00:00:00-04:00</updated><id>https://lesshead.works/LGBT</id><content type="html" xml:base="https://lesshead.works/LGBT/">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://e-liquid-recipes.com/recipe/3651787/LGBT%20%28%20Little%20Green%20Bastard%20Truck%20%29&quot;&gt;LGBT ( Little Green Bastard Truck ) &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/EasySide_6.jpg&quot; alt=&quot;EasySide_6&quot; /&gt;
+&lt;img src=&quot;/assets/img/EasySide_5.jpg&quot; alt=&quot;EasySide_5&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;the-swap&quot;&gt;The Swap&lt;/h1&gt;
+
+&lt;p&gt;The swap itself was fairly straightforward.&lt;/p&gt;
+
+&lt;p&gt;Since the device is designed using a clone DNA60 board all the mounts and buttons align perfectly.&lt;/p&gt;
+
+&lt;p&gt;The only small issues are, it is wired normally with a shared ground. And for the clone board this is fine but for an authentic DNA60 this effectively removes reverse battery protection.
+So all I did was cut the wire that goes from the negative battery contact to the atomizer negative. Keep that bit of wire you will use it later.&lt;/p&gt;
+
+&lt;p&gt;Then, the only other thing is the orientation of the screen. On the clone board the screen flex cable goes in the opposite side. 
+On the authentic it goes in from the top ( where the fire button is ) and will have to be placed under the plastic frame that holds the DNA60 board in place. Be careful you do not want to break the flex cable.&lt;/p&gt;
+
+&lt;p&gt;I wired the DNA60 like the datasheet shows, the positive and negative of the battery go into the through hole terminals on the bottom of the board and the atomizer positive and negative go in their through holes on the top of the board.&lt;/p&gt;
+
+&lt;p&gt;It has been working prefectly for some time now.&lt;/p&gt;
+
+&lt;h1 id=&quot;caveats&quot;&gt;Caveats&lt;/h1&gt;
+
+&lt;p&gt;The only thing I can say is you will want to solder up the USB charge board so you can program the DNA60.&lt;/p&gt;
+
+&lt;p&gt;Since this mod does not have space for a USB port ( you may be able to cram one in there, but PC is hard to work with and not have it crack so good luck. ) you only get one shot to program it correctly. You can assemble the mod a good 80% of the way with the USB board on if you want to calibrate it, and since it’s a DNA60 there is no case analyzer to run.&lt;/p&gt;
+
+&lt;p&gt;I added a SS316L material and a profile for how I like to vape.&lt;/p&gt;
+&lt;h6 id=&quot;-i-use-a-kayfun-lite-2019-on-it-&quot;&gt;( I use a Kayfun Lite 2019 on it )&lt;/h6&gt;
+
+&lt;p&gt;Since there is no case analyzer, the refinement is built into the mod. But I find for my atomizer it’s a little quick and it ends up increasing the resistance if I vape on the setup a good bit. I find that locking the resistance fixes this problem and makes it vape much more consistant.&lt;/p&gt;
+
+&lt;p&gt;If there is interest I can go over the Escribe setup when I get my batch of DNA60 boards in.&lt;/p&gt;
+
+&lt;p&gt;Here are some pictures of the finished swap.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/EasySide_4.jpg&quot; alt=&quot;EasySide_4&quot; /&gt;
+&lt;img src=&quot;/assets/img/EasySide_3.jpg&quot; alt=&quot;EasySide_3&quot; /&gt;
+&lt;img src=&quot;/assets/img/EasySide_2.jpg&quot; alt=&quot;EasySide_2&quot; /&gt;
+&lt;img src=&quot;/assets/img/EasySide_1.jpg&quot; alt=&quot;EasySide_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://discord.gg/JkKfBVp&quot;&gt;DIY_eJuice Discord&lt;/a&gt;&lt;/p&gt;</content><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><summary type="html">Ambition Mods Easy Side DNA60 Swap</summary></entry><entry><title type="html">Little Green Bastard Truck</title><link href="https://lesshead.works/LGBT/" rel="alternate" type="text/html" title="Little Green Bastard Truck" /><published>2020-07-11T00:00:00-04:00</published><updated>2020-07-11T00:00:00-04:00</updated><id>https://lesshead.works/LGBT</id><content type="html" xml:base="https://lesshead.works/LGBT/">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://e-liquid-recipes.com/recipe/3651787/LGBT%20%28%20Little%20Green%20Bastard%20Truck%20%29&quot;&gt;LGBT ( Little Green Bastard Truck ) &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -58,7 +95,9 @@ Guanabana (FLV): Originally wanted this to be the star of the recipe, but after 
 
 &lt;p&gt;Kiwi (FA): This flavor is actually the most present in this recipe, even at only 2%. Meshes very well with the Guanabana &amp;amp; Guava.&lt;/p&gt;
 
-&lt;p&gt;Sweet Guava (CAP): This is meant really just to pair with the Guanabana but it actually adds quite a bit of character by itself. I believe it is also the main source of sweetness&lt;/p&gt;</content><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><summary type="html">This is my slight change to Green Bastard for MTL setups.</summary></entry><entry><title type="html">Cubanamella</title><link href="https://lesshead.works/cubanamella/" rel="alternate" type="text/html" title="Cubanamella" /><published>2020-05-30T00:00:00-04:00</published><updated>2020-05-30T00:00:00-04:00</updated><id>https://lesshead.works/Cubanamella</id><content type="html" xml:base="https://lesshead.works/cubanamella/">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://e-liquid-recipes.com/recipe/3567509/Cubanamella&quot;&gt;Cubanamella &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sweet Guava (CAP): This is meant really just to pair with the Guanabana but it actually adds quite a bit of character by itself. I believe it is also the main source of sweetness&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://discord.gg/JkKfBVp&quot;&gt;DIY_eJuice Discord&lt;/a&gt;&lt;/p&gt;</content><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><summary type="html">This is my slight change to Green Bastard for MTL setups.</summary></entry><entry><title type="html">Cubanamella</title><link href="https://lesshead.works/cubanamella/" rel="alternate" type="text/html" title="Cubanamella" /><published>2020-05-30T00:00:00-04:00</published><updated>2020-05-30T00:00:00-04:00</updated><id>https://lesshead.works/Cubanamella</id><content type="html" xml:base="https://lesshead.works/cubanamella/">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://e-liquid-recipes.com/recipe/3567509/Cubanamella&quot;&gt;Cubanamella &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -112,12 +151,9 @@ The original has 0.15% Cap SS, I normally use 0.5% FW Sweetener myself in MTL mi
 
 &lt;p&gt;&lt;a href=&quot;https://alltheflavors.com/recipes/126323#cubanamel_by_thefogvlog&quot;&gt;Cubanamel by TheFogVLOG&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Tested out of a Kayfun Lite 2019, 26g SS316L 3mm ID 8 wraps, TC at 215°C 18.5w&lt;/p&gt;</content><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><summary type="html">Cubanamella Recipe, a thick dark sweet dessert tobacco.</summary></entry><entry><title type="html">Colophon</title><link href="https://lesshead.works/about/" rel="alternate" type="text/html" title="Colophon" /><published>2020-02-25T00:00:00-05:00</published><updated>2020-02-25T00:00:00-05:00</updated><id>https://lesshead.works/about</id><content type="html" xml:base="https://lesshead.works/about/">&lt;p&gt;Please be patient&lt;/p&gt;
+&lt;p&gt;Tested out of a Kayfun Lite 2019, 26g SS316L 3mm ID 8 wraps, TC at 215°C 18.5w&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;duncanyoyo1@gmail.com&lt;/li&gt;
-  &lt;li&gt;github.com/duncanyoyo1&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><summary type="html">More content soon</summary></entry><entry><title type="html">Text Formatting Examples</title><link href="https://lesshead.works/text-formatting-examples/" rel="alternate" type="text/html" title="Text Formatting Examples" /><published>2017-01-01T00:00:00-05:00</published><updated>2017-01-01T00:00:00-05:00</updated><id>https://lesshead.works/text-formatting-examples</id><content type="html" xml:base="https://lesshead.works/text-formatting-examples/">&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://discord.gg/JkKfBVp&quot;&gt;DIY_eJuice Discord&lt;/a&gt;&lt;/p&gt;</content><author><name>Duncanyoyo1</name><email>duncanyoyo1@gmail.com</email></author><summary type="html">Cubanamella Recipe, a thick dark sweet dessert tobacco.</summary></entry><entry><title type="html">Text Formatting Examples</title><link href="https://lesshead.works/text-formatting-examples/" rel="alternate" type="text/html" title="Text Formatting Examples" /><published>2017-01-01T00:00:00-05:00</published><updated>2017-01-01T00:00:00-05:00</updated><id>https://lesshead.works/text-formatting-examples</id><content type="html" xml:base="https://lesshead.works/text-formatting-examples/">&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
 
 &lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
 
