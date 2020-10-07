@@ -4,6 +4,8 @@
     { "handle": "filesystem" },
     { "src": "/.*", "status": 404, "dest": "404.html" },
     { "src": "/.*", "status": 403, "dest": "403.html" },
-    { "src": "/.*", "status": 401, "dest": "401.html" }
+    { "src": "/.*", "status": 401, "dest": "401.html" },
+    { "src": "/.*", "status": 400, "dest": "400.html" }
+    
   ]
 }
