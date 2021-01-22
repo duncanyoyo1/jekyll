@@ -12,4 +12,4 @@ menu:
 
 social:
 # Uncomment to activate the social media icon looping function in the footer.html file under _includes
-#- {icon: 'github', link: 'https://www.github.com/duncanyoyo1'}
+- {icon: 'github', link: 'https://www.github.com/duncanyoyo1'}
