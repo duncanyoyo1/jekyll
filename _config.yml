@@ -1,10 +1,10 @@
 # Site settings
-title: Lesshead.works # site title
+title: All Around Electronics # site title
 description: >- # site description
-  Doing code stuff <a href="https://github.com/duncanyoyo1" target="_blank" rel="noopener">@github</a>.
+  Doing code stuff <a href="https://github.com/duncanyoyo1" target="_blank" rel="noopener">@github.com/duncanyoyo1</a>.
 lang: en-US # default lang
 timezone: America/New_York # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/ogp.webp # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/duncanyoyo1/jekyll # site repo [optional]
 mode: dark # default theme "dark" | "light"
 github:
@@ -14,8 +14,10 @@ github:
 author: 
   name: Duncanyoyo1 # author name
   bio: >- # tell to the world
-    More coming soon 
-    <a href="https://github.com/duncanyoyo1/" target="_blank" rel="noopener">@github <a href="https://twitch.tv/duncanyoyo1" target="_blank" rel="noopener">@twitch</a>.
+    Welcome to All Around Electronics!
+    <br>
+    <br>
+    <p><a href="/contact/"> Contact Information </a></p>
   username: duncanyoyo1 # general username
   github: duncanyoyo1 # github username
   twitter: duncanyoyo1 # twitter username
@@ -23,16 +25,17 @@ author:
   twitch: duncanyoyo1 # twitch address
   discord: duncanyoyo1#0785 # discord name
   discordinv: https://discord.gg/JkKfBVp # DIY_eJuice Discord invite link
-  avatar: /assets/img/avatar.webp # change with your own avatar
+  discordlink: https://discordapp.com/users/281308567695261707
+  avatar: /assets/img/avatar_hq.webp # change with your own avatar
 
 
 # CSS Settings
 
 # URL settings
-url: "https://lesshead.works" #
+url: "https://aaelec.info" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-QKMFCRB73T
 fb_appid:
 
 # Collection setting
