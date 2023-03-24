@@ -94,9 +94,12 @@ exclude:
   - klise-*.gem
   - klise.gemspec
   - workspace.code-workspace
+  - 'assets/download/StarterKit.rar'
+  - 'assets/download/InitialD_Manual2020.pdf'
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-pdf-embed
